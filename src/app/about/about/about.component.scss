@@ -1,0 +1,15 @@
+.cards {
+	.card-item {
+		margin-right: 10px;
+		width: fit-content;
+		min-width: 20%;
+	}
+	mat-card {
+		height: 100%;
+	}
+	ul {
+		span {
+			font-weight: 500;
+		}
+	}
+}
